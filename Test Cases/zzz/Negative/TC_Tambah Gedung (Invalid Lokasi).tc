@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Tambah Gedung (Invalid Lokasi)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a13a9ce6-0ec5-48e0-8f26-1d953ef3bd6b</testCaseGuid>
+</TestCaseEntity>

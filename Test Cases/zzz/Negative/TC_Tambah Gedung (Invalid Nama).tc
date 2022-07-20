@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Tambah Gedung (Invalid Nama)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>674945e4-d6c2-44db-af99-d3bea6de1c69</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Tambah Gedung (Invalid Harga)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4f6dedf-a6cd-42fb-83fd-e0cc492e5ee1</testCaseGuid>
+</TestCaseEntity>
